@@ -1,7 +1,7 @@
 # quality-data-analysis
 # 📏 Automotive Quality & Dimensional Analysis
 
-This project showcases data-driven quality inspection and Cp/Cpk measurement analysis using real-world-like engine part data.
+This project showcases data-driven quality inspection and Cp/Cpk calculation analysis using cmm measurement output data.
 
 ## 🔧 Tools Used
 - Python (Pandas)
